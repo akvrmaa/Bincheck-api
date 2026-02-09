@@ -15,7 +15,7 @@
 
 ---
 
-## Apps Script Code
+## Script
 
 ```javascript
 
