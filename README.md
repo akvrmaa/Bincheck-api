@@ -18,9 +18,7 @@
 ## Apps Script Code
 
 ```javascript
-/************************************
- * Bincheck.io Google Sheet Integration
- ************************************/
+
 
 const BINCHECK_API = "YOUR_API_KEY_HERE";
 
