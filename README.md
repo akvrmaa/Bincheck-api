@@ -58,6 +58,9 @@ function BIN_LOOKUP() {
 }
 
 
+//////
+
+
 
 | Column | Purpose               |
 | ------ | --------------------- |
@@ -81,7 +84,7 @@ D2: India
 E2: Debit
 F2: Classic
 
-
+/////
 
 
 
