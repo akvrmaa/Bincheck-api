@@ -1,7 +1,7 @@
 # Bincheck-api
 
 
-# Bincheck.io – Google Sheet Integration
+# Bincheck.io – Google Sheet 
 
 >  This code is for Google Apps Script only.
 > Do NOT deploy or run this from GitHub.
