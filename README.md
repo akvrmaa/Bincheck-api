@@ -58,7 +58,7 @@ function BIN_LOOKUP() {
 }
 
 
-//
+/************************************
 | Column | Purpose               |
 | ------ | --------------------- |
 | A      | Card number / BIN     |
@@ -80,8 +80,7 @@ C2: HDFC Bank
 D2: India
 E2: Debit
 F2: Classic
-//
-
+************************************/
 
 
 
