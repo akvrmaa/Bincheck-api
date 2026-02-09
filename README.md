@@ -1,4 +1,3 @@
-# Bincheck-api
 
 
 # Bincheck.io – Google Sheet 
